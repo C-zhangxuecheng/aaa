@@ -1,0 +1,73 @@
+*{margin: 0;
+    padding: 0;
+}
+html,body{
+    min-width: 900px;
+    background:antiquewhite;
+     
+}
+.h1{
+    text-align: center;
+    
+}
+.nav{
+    background: rgba(0,0,0, 0.5);
+    overflow: hidden;
+}
+.div{
+    float: right;
+    font-size: 0;
+}
+.header{
+    border-bottom:2px dashed #000000;
+    width: 800px;
+    margin: 0 auto;
+}
+.article{
+    margin: 0 auto;
+    width: 750px;
+    background: seashell;
+}
+.figc{
+  text-align: center;
+  overflow: hidden; 
+  font-style: italic;
+  font-weight: bold; 
+}
+p{
+    text-indent: 2em;
+}
+img{
+    display: inline-block;
+    margin: 0 85px;
+}
+.p6{
+    margin: 0 0 20px 0;
+}
+.p1{
+    font-weight: bold; 
+    width: 0 auto；
+}
+p{
+    font-style: italic;
+    margin: 0 20px;
+}
+.touxiang{
+    position: fixed;
+    right: 1%;
+    bottom: 1%;
+}
+.ll{
+    width:170px;
+    height: 200px;
+}
+span{
+    font-size: 18px;
+    font-style: italic;
+}
+img{
+    transition: .5s;  
+}
+img:hover{
+    transform: scale(1.2);
+}
